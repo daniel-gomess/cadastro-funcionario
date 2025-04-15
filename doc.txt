@@ -1,3 +1,18 @@
+Documentation/Step-by-step guide to the employee registration project
+
+1- Importing DATETIME to work with dates;
+2- Importing the RANDOM module to work with "random" numbers, with the drawing of the project cards;
+3- Asking the user for their name and saving the information in a variable;
+4- Asking the user for their age and saving the information in a variable;
+5- Saving the user's registration date in a variable. This is the current date on which the registration is being made;
+6- Creating the CARDS variable and saving the information with the values ​​of each card, to be used in the drawing;
+7- Using the CHOICE function of the RANDOM module to draw a card value, using the CARDS variable created previously. Saving the drawing in a variable to be able to use in the message to the user;
+8- Asking the user for their date of birth to identify their birthday. Using the Brazilian standard dd/mm/yyyy.
+9- Showing the user a welcome message. The message contains the user's name (entered in the nome variable), the registration/enrollment date (entered in the data_cadastro variable).
+10- Showing the user a message that he/she won a card with a value through a raffle (entered in the cartao variable)
+
+______________________________________________________________________________________________________________________
+
 Documentação/Passo a passo do projeto de cadastro de funcionários
 
 1- Importando o DATETIME para trabalhar com datas;
